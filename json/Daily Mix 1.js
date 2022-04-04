@@ -1,0 +1,428 @@
+export default {
+  tracks: [
+    {
+      title: "Paris",
+      artist: "The Chainsmokers",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/1bf99008d3c4ef8f26d7bec1f535efe6b261a91c?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 221506,
+      album: "Memories...Do Not Open",
+      image: "https://i.scdn.co/image/ab67616d000048510c13d3d5a503c84fcc60ae94",
+    },
+    {
+      title: "Beautiful People (feat. Khalid)",
+      artist: "Ed Sheeran",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/f94d8d0c1b37773ff493e7d83930545e3425ccd3?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 197866,
+      album: "Beautiful People (feat. Khalid)",
+      image: "https://i.scdn.co/image/ab67616d00004851358f874d5d31e76a8fe3f6d0",
+    },
+    {
+      title: "Stay",
+      artist: "Gracie Abrams",
+      preview_url: null,
+      duration: 177152,
+      album: "Stay",
+      image: "https://i.scdn.co/image/ab67616d000048518f0e4f832dfe1840169c8009",
+    },
+    {
+      title: "When We Were Young",
+      artist: "Adele",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/cdae0d3cbad11c0984b37ce4ceac142a996ba5bf?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 290900,
+      album: "25",
+      image: "https://i.scdn.co/image/ab67616d00004851856b7a3e75db11219d0a8a5f",
+    },
+    {
+      title: "Back To December",
+      artist: "Taylor Swift",
+      preview_url: null,
+      duration: 293040,
+      album: "Speak Now",
+      image: "https://i.scdn.co/image/ab67616d00004851d0eae3c1661a96570f0ca7bd",
+    },
+    {
+      title: "Arcade",
+      artist: "Duncan Laurence",
+      preview_url: null,
+      duration: 183624,
+      album: "Arcade",
+      image: "https://i.scdn.co/image/ab67616d00004851a954408e456d4d9d410f448b",
+    },
+    {
+      title: "This Town",
+      artist: "Niall Horan",
+      preview_url: null,
+      duration: 232852,
+      album: "Flicker (Deluxe)",
+      image: "https://i.scdn.co/image/ab67616d000048515bac234d5511248b248caf36",
+    },
+    {
+      title: "Sugar",
+      artist: "Maroon 5",
+      preview_url: null,
+      duration: 235493,
+      album: "V (Asia Tour Edition)",
+      image: "https://i.scdn.co/image/ab67616d0000485137677af5b4f23fe9dc8a3c04",
+    },
+    {
+      title: "The Way I Am",
+      artist: "Charlie Puth",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/ed92260a6a77096e559b080e5c3251fd4f8b278c?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 186080,
+      album: "Voicenotes",
+      image: "https://i.scdn.co/image/ab67616d00004851897f73256b9128a9d70eaf66",
+    },
+    {
+      title: "Walk with Me",
+      artist: "Bella Thorne",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/4399200ac6235dc2c7be421172d1c070b721b5bd?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 204000,
+      album: "Midnight Sun (Original Motion Picture Soundtrack)",
+      image: "https://i.scdn.co/image/ab67616d00004851ecab4dd0ee827b6f61cc0090",
+    },
+    {
+      title: "Memories",
+      artist: "Boyce Avenue",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/5c08426036dd6af404c32048d49fea7f5996c5d1?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 197170,
+      album: "Cover Sessions, Vol. 6",
+      image: "https://i.scdn.co/image/ab67616d0000485107e4a00388c3f32fd21c6daf",
+    },
+    {
+      title: "All of the Stars - Acoustic",
+      artist: "Glenn & Ronan",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/cd2a1388696ea8f9efd6fce64b83e207d8c0b1c8?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 263560,
+      album: "All of the Stars",
+      image: "https://i.scdn.co/image/ab67616d0000485195a2b3112f826ffd53424d18",
+    },
+    {
+      title: "Tenerife Sea",
+      artist: "Ed Sheeran",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/fcbc500815ae157ff46f7acaa9d8eef4cc54f454?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 241346,
+      album: "x (Deluxe Edition)",
+      image: "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd",
+    },
+    {
+      title: "Levitating",
+      artist: "Dua Lipa",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/fd22dba2fdce72d699aa81dc298e9dca40ece9e3?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 203807,
+      album: "Future Nostalgia",
+      image: "https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946",
+    },
+    {
+      title: "Say You Won't Let Go",
+      artist: "James Arthur",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/00825cb1779b31d68964eda6f2a7911fc2ae96c6?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 211466,
+      album: "Back from the Edge",
+      image: "https://i.scdn.co/image/ab67616d0000485120beb61f61fcbeb33b10a9ab",
+    },
+    {
+      title: "Back To You",
+      artist: "Selena Gomez",
+      preview_url: null,
+      duration: 210240,
+      album: "13 Reasons Why (Season 2)",
+      image: "https://i.scdn.co/image/ab67616d00004851acc995be2b5bdc62d622ccd3",
+    },
+    {
+      title: "Without Me",
+      artist: "Alec Chambers",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/d3bba8a36f7c7b6fc15c7e943aa188ef9e891fe4?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 116506,
+      album: "Covers",
+      image: "https://i.scdn.co/image/ab67616d0000485156b6d5397affee3820ebadfa",
+    },
+    {
+      title: "Good to Me",
+      artist: "Connie Talbot",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/193714b6954ee4e5c1704634f6202c41a203debb?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 222580,
+      album: "Good to Me",
+      image: "https://i.scdn.co/image/ab67616d00004851371e0a503c1137a359638fd1",
+    },
+    {
+      title: "22",
+      artist: "Taylor Swift",
+      preview_url: null,
+      duration: 232120,
+      album: "Red (Deluxe Edition)",
+      image: "https://i.scdn.co/image/ab67616d00004851254c8a09649551438b20f4c0",
+    },
+    {
+      title: "Sign of the Times",
+      artist: "Harry Styles",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 340706,
+      album: "Harry Styles",
+      image: "https://i.scdn.co/image/ab67616d000048516c619c39c853f8b1d67b7859",
+    },
+    {
+      title: "Hold On",
+      artist: "Chord Overstreet",
+      preview_url: null,
+      duration: 198853,
+      album: "Hold On",
+      image: "https://i.scdn.co/image/ab67616d00004851c60473419a4ce96822541181",
+    },
+    {
+      title: "Into Your Arms (feat. Ava Max)",
+      artist: "Witt Lowry",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/b9404e439d0673bb14d7872fc8b9cb48d503bc5c?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 186022,
+      album: "Into Your Arms (feat. Ava Max)",
+      image: "https://i.scdn.co/image/ab67616d000048513953ec40ca0a28a622c4a50f",
+    },
+    {
+      title: "Dangerously",
+      artist: "Charlie Puth",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/a0f2e7a2e610adb6e4de94ed82d95b86eede0787?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 199133,
+      album: "Nine Track Mind",
+      image: "https://i.scdn.co/image/ab67616d00004851633a2d775747bccfbcb17a45",
+    },
+    {
+      title: "You're Gonna Live Forever in Me",
+      artist: "John Mayer",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/64f7873356a3300cba479ba6e10deea5915b23ae?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 190013,
+      album: "The Search for Everything",
+      image: "https://i.scdn.co/image/ab67616d00004851c6bfaf942ed981d5c4c922e4",
+    },
+    {
+      title: "22",
+      artist: "Alex Goot",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/8a450d8c9b4d3608451da3955486cddfbc07b138?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 222066,
+      album: "Alex Goot & Friends, Vol. 3",
+      image: "https://i.scdn.co/image/ab67616d0000485174976cfb28f1e7fa82627d4e",
+    },
+    {
+      title: "Payphone - Edit",
+      artist: "Maroon 5",
+      preview_url: null,
+      duration: 231373,
+      album: "Overexposed (Deluxe)",
+      image: "https://i.scdn.co/image/ab67616d00004851855cda68658945a764dfb01d",
+    },
+    {
+      title: "Believer",
+      artist: "Imagine Dragons",
+      preview_url: null,
+      duration: 204346,
+      album: "Evolve",
+      image: "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+    },
+    {
+      title: "Fly Me To The Moon",
+      artist: "Joseph Vincent",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/83a46d2a07a14569b15406e50072e24289c6dc3b?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 101590,
+      album: "Fly Me To The Moon",
+      image: "https://i.scdn.co/image/ab67616d000048513cb4130920a8b9e9820080bf",
+    },
+    {
+      title: "We Don't Talk Anymore (feat. Selena Gomez)",
+      artist: "Charlie Puth",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/9c497e095198c3f26f98c244de8219935a908b81?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 217706,
+      album: "Nine Track Mind",
+      image: "https://i.scdn.co/image/ab67616d00004851633a2d775747bccfbcb17a45",
+    },
+    {
+      title: "The A Team",
+      artist: "Ed Sheeran",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/37bf226e93591d438dde11e6404e3751a108084f?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 258373,
+      album: "+",
+      image: "https://i.scdn.co/image/ab67616d00004851f0e911d0e5aadefc431bf34a",
+    },
+    {
+      title: "Hey There Delilah",
+      artist: "Plain White T's",
+      preview_url: null,
+      duration: 232533,
+      album: "All That We Needed",
+      image: "https://i.scdn.co/image/ab67616d00004851beae6e69d6505fd379ef3081",
+    },
+    {
+      title: "Stereo Hearts (feat. Adam Levine)",
+      artist: "Gym Class Heroes",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/649de18156e9351fcbb8471c93a4ff20e427b25b?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 210960,
+      album: "The Papercut Chronicles II",
+      image: "https://i.scdn.co/image/ab67616d0000485118b8088fe0c3dbf78398b55a",
+    },
+    {
+      title: "All of the Stars",
+      artist: "Ed Sheeran",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/847eb7bdd2feb043181c77e8ae1d42f597e39d78?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 234986,
+      album: "The Fault In Our Stars: Music From The Motion Picture",
+      image: "https://i.scdn.co/image/ab67616d00004851f17ddc825889b0dd22798b9b",
+    },
+    {
+      title: "Turn Down for What",
+      artist: "DJ Snake",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/fde5f6c570eb2ecaca797c0984a247a47d3fdc21?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 213733,
+      album: "Turn Down for What",
+      image: "https://i.scdn.co/image/ab67616d00004851d905e78cad304de028db39b7",
+    },
+    {
+      title: "A Million Dreams - Acoustic",
+      artist: "John Adams",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/5065e3343cd42dddb7dbe80308e64406f35d5bc4?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 202928,
+      album: "A Million Dreams (Acoustic)",
+      image: "https://i.scdn.co/image/ab67616d000048511dbad35ca29b0c135bd6400e",
+    },
+    {
+      title: "Heart Attack",
+      artist: "Kurt Hugo Schneider",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/6eaf7a896c939594f66b8f1a6ec81baebfbe8f3e?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 208125,
+      album: "Heart Attack",
+      image: "https://i.scdn.co/image/ab67616d0000485109f4a5c8f470f665dfd95e48",
+    },
+    {
+      title: "Can't Help Falling In Love",
+      artist: "Haley Klinkhammer",
+      preview_url: null,
+      duration: 198933,
+      album: "Can't Help Falling In Love",
+      image: "https://i.scdn.co/image/ab67616d00004851d8042b9a9b7276806cea9b38",
+    },
+    {
+      title: "There's Nothing Holdin' Me Back",
+      artist: "Shawn Mendes",
+      preview_url: null,
+      duration: 199440,
+      album: "Illuminate (Deluxe)",
+      image: "https://i.scdn.co/image/ab67616d00004851ea3ef7697cfd5705b8f47521",
+    },
+    {
+      title: "My Kind Of Love",
+      artist: "Leon Else",
+      preview_url: null,
+      duration: 209960,
+      album: "13 Reasons Why (Season 2)",
+      image: "https://i.scdn.co/image/ab67616d00004851acc995be2b5bdc62d622ccd3",
+    },
+    {
+      title: "Jealous",
+      artist: "Josh Daniel",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/fd240e236fa7bf3e6af53c8600307b4ed3fb9f84?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 292538,
+      album: "Jealous",
+      image: "https://i.scdn.co/image/ab67616d00004851b0b65041a5871c144521e0da",
+    },
+    {
+      title: "She Looks So Perfect",
+      artist: "5 Seconds of Summer",
+      preview_url: null,
+      duration: 202496,
+      album: "5 Seconds Of Summer",
+      image: "https://i.scdn.co/image/ab67616d0000485193432e914046a003229378da",
+    },
+    {
+      title: "How Long",
+      artist: "Charlie Puth",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/0dc00d9cdee8c916782feb2e6fc89d82910aa019?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 200853,
+      album: "Voicenotes",
+      image: "https://i.scdn.co/image/ab67616d00004851897f73256b9128a9d70eaf66",
+    },
+    {
+      title: "100 Years",
+      artist: "Five For Fighting",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/a36e4e082c1dc9e416c80bdf58c21444199e0749?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 244600,
+      album: "The Battle for Everything",
+      image: "https://i.scdn.co/image/ab67616d00004851dbcfeefa73330cc4b762fdf8",
+    },
+    {
+      title: "Beauty And A Beat",
+      artist: "Justin Bieber",
+      preview_url: null,
+      duration: 227986,
+      album: "Believe (Deluxe Edition)",
+      image: "https://i.scdn.co/image/ab67616d000048516c20c4638a558132ba95bc39",
+    },
+    {
+      title: "Crazier",
+      artist: "Taylor Swift",
+      preview_url: null,
+      duration: 191946,
+      album: "Hannah Montana The Movie",
+      image: "https://i.scdn.co/image/ab67616d000048510e8ba185f3e9f15630a7b5fb",
+    },
+    {
+      title: "Whistle",
+      artist: "Flo Rida",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/957b3f190456c949010b102381b6e3e6c05d61b6?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 224653,
+      album: "Wild Ones",
+      image: "https://i.scdn.co/image/ab67616d00004851871d85943145dde548f4ae09",
+    },
+    {
+      title: "Colors",
+      artist: "Halsey",
+      preview_url: null,
+      duration: 249499,
+      album: "BADLANDS",
+      image: "https://i.scdn.co/image/ab67616d00004851bd02d63417be256b22bffc28",
+    },
+    {
+      title: "Done for Me (feat. Kehlani)",
+      artist: "Charlie Puth",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/cb26531c559b909f8cb191ecfe34b49c6efad139?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 180493,
+      album: "Voicenotes",
+      image: "https://i.scdn.co/image/ab67616d00004851897f73256b9128a9d70eaf66",
+    },
+    {
+      title: "A Thousand Years",
+      artist: "Christina Perri",
+      preview_url:
+        "https://p.scdn.co/mp3-preview/9e1ba149540ddccd2d52766c788b06307536260d?cid=982ee71c94964e128eaca616a21e1a1d",
+      duration: 285120,
+      album:
+        "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+      image: "https://i.scdn.co/image/2df0e951955b8b24b88f28f4f243e53cee7fa13e",
+    },
+  ],
+};
